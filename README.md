@@ -1,8 +1,8 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Dicee 🎲
-
+## Udemy
+- The Complete 2020 Flutter Development Bootcamp with Dart
+- Section 7: Dicee - Building Apps with State
+![dicee-flutter-demo](https://user-images.githubusercontent.com/57246379/81253062-86252f00-9062-11ea-937b-d4e3394ab278.gif)
 ## Our Goal
 
 The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you how to make apps with functionality using setState() inside Stateful Flutter widgets.
